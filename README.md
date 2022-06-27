@@ -15,5 +15,3 @@ The engine supports
 - NPCc, Merchants and Questlines (see entities/interact/npc/QuestlineList.java for examples)
 - RPG-style inventory with multiple tabs
 
-
-## Credits
