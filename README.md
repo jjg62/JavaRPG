@@ -11,5 +11,6 @@ The engine supports
 - Cutscenes (see cutscene/CutsceneList.java for examples)
 - Rooms and Combat Encounters with multiple phases (see rooms/RoomList.java for examples: line 209-234 shows an example combat encounter with 3 phases)
 - NPCc, Merchants and Questlines (see entities/interact/npc/QuestlineList.java for examples)
+- RPG-style inventory with multiple tabs
 
 
